@@ -49,10 +49,13 @@ All sensor data is displayed locally via OLED and uploaded to ThingSpeak IoT clo
 ![serail1](https://github.com/user-attachments/assets/b6f0d9dc-a763-417a-80bf-7e73d3d0e50c)
 
 🔧 Working Model
+
 Prototype – Sensor & NodeMCU Setup
 ![serial_monitor](https://github.com/user-attachments/assets/0d2fda1b-8fb0-4c4b-afdc-616d16901487)
 
 Final Assembled Device
+
+
 ![final](https://github.com/user-attachments/assets/8e6b8669-be69-4cf2-b5df-c7a5d5df94eb)
 
 ⚙️ Hardware Components
