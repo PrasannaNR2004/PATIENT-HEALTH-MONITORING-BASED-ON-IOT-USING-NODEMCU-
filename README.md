@@ -33,13 +33,19 @@ Microcontroller	NodeMCU ESP8266
 All sensor data is displayed locally via OLED and uploaded to ThingSpeak IoT cloud.
 
 🖼️ Block Diagram
+
+
 <img width="341" height="242" alt="image" src="https://github.com/user-attachments/assets/21b2e97f-059d-418c-be91-f42294d1925f" />
 
 
 🌐 ThingSpeak Dashboard
+
+
 ![thingspeak](https://github.com/user-attachments/assets/d18ffeb7-d4a8-42cf-a0e5-41ac461cc2b9)
 
 🖥️ Serial Monitor Output
+
+
 ![serail1](https://github.com/user-attachments/assets/b6f0d9dc-a763-417a-80bf-7e73d3d0e50c)
 
 🔧 Working Model
